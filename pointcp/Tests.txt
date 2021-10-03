@@ -1,0 +1,23 @@
+PointCP2 Tests:
+173780+169859+162964+179024+179070+199951+149665+150900
+Median: 170651.625 completed points generated in 10 seconds
+Avrg Runtime: 17.0651625 Milliseconds
+Highest point: 199951
+Lowest point: 150900
+
+PointCP3 Tests:
+161164+179087+176500+150100+151781+177912+165369+166719
+Median: 167339.8 completed points generated in 10 seconds
+Avrg Runtime: 16.73398 Milliseconds
+Highest point: 179087
+Lowest Point: 150100
+
+PointCP5 Tests:
+171412+177003+163030+166464+202745+164097+162352+163405
+Median: 171313.5 completed points generated in 10 seconds
+Avrg Runtime: 17.13135 Milliseconds
+Highest Point: 202745
+Lowest Point: 162352
+
+All given 10 seconds to generate and test as many points as possible.
+Each pointCP class was tested 8 times.
